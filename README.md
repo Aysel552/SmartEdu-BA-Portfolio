@@ -4,9 +4,9 @@ Digital Course & Certification Management Platform
 
 SmartEdu is an IT Business Analysis final course project for digitizing training-center enrollment, attendance, assessment, and certification. The documentation connects business needs and requirements with BPMN processes, data modeling, SQL, APIs, security rules, traceability, and testing.
 
-## English documentation
+## Documentation
 
-The English versions below are Markdown files for reading directly on GitHub. Tables, requirement identifiers, rules, status values, test expectations, and recorded results follow the source materials. Personal names are retained as written.
+Tables, requirement identifiers, rules, status values, test expectations, and recorded results follow the source materials. Personal names are retained as written.
 
 | Document | English version |
 | --- | --- |
@@ -37,10 +37,6 @@ The BPMN files have English labels. Node identifiers, sequence flows, connection
 
 ## Original files and evidence
 
-All 22 uploaded files are retained unchanged in `originals/`. Original screenshots and visual evidence are also used in the translated documentation. Text inside screenshots, the original PNG/PDF exports, and the binary Figma `.jam` file remains in its source language. English Figma interface text is available in the documents above.
+All 22 uploaded files are retained unchanged in `originals/`. Original screenshots and visual evidence are also used in the translated documentation. Text inside screenshots, the original PNG/PDF exports, and the binary Figma `.jam` file remains in its source language. Figma interface text is available in the documents above.
 
-The translations retain source differences. For example, the BRD test catalog states 41 test cases, while the booklet and defense state 35. Open decisions, documented gaps, and conditional statuses remain as recorded. Requirements and expected test outcomes are not reclassified as executed test results.
 
-## GitHub upload
-
-Extract this ZIP and upload the contents of `SmartEdu-English` to your repository root. Keep `README.md`, `docs`, `diagrams`, and `originals` together so the relative links and evidence images work.
